@@ -1,0 +1,6 @@
+@FutsalBooking.Api_HostAddress = http://localhost:5294
+
+GET {{FutsalBooking.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
